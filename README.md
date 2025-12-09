@@ -2,7 +2,7 @@
 
 An intelligent error analysis application built with Next.js that implements the **Cloudflare Agents SDK** for AI-powered error detection, classification, and troubleshooting recommendations.
 
-![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
+![Version](https://img.shields.io/badge/version-0.1.0-blue.svg)
 ![Next.js](https://img.shields.io/badge/Next.js-16.0.7-black.svg)
 ![React](https://img.shields.io/badge/React-19.2.0-61dafb.svg)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue.svg)
